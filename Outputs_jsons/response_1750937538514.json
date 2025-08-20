@@ -1,0 +1,37 @@
+{
+  "total_logs": 1000,
+  "levels": {
+    "ERROR": 316,
+    "INFO": 586,
+    "WARN": 98
+  },
+  "top_users": [
+    {
+      "user_id": "111",
+      "count": 45
+    },
+    {
+      "user_id": "127",
+      "count": 44
+    },
+    {
+      "user_id": "103",
+      "count": 42
+    }
+  ],
+  "failed_actions": 190,
+  "first_log_time": "2025-06-18T10:00:10.429000",
+  "last_log_time": "2025-06-18T11:00:00.635000",
+  "action_breakdown": {
+    "purchase": 212,
+    "delete": 202,
+    "logout": 197,
+    "login": 202,
+    "update": 187
+  },
+  "per_hour_logs": {
+    "2025-06-18 10:00": 999,
+    "2025-06-18 11:00": 1
+  },
+  "skipped_lines": 0
+}
